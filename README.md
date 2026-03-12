@@ -1,15 +1,15 @@
 [简体中文说明](https://github.com/chenxiccc/obsidian-auto-download-imgs-after-web-clipping/blob/main/README-CN.md)
 # obsidian-auto-download-imgs-after-web-clipping
-After you save a webpage using the [web clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf) plugin in Obsidian, the images on the webpage will not be stored locally but will instead still reference the online image URLs.
+After you save a webpage using the [web clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf) plugin in Obsidian, the images on the webpage will not be stored locally but will still reference the online image URLs.
 
-I want the images to be saved locally.
+I want  to be save the images locally.
 
-There are several solutions for this. For example, you can assign a shortcut key to `editor:download-attachments` to manually download the images to your local device.
+There are several solutions for this. For example, you can assign a shortcut key to `editor:download-attachments` to manually download the images to your device.
 
 However, I hope for a more automated solution. Hence, this plugin was created.
 
 # Plugin Features
-This plugin is very simple. When you clip a document using the Web Clipper plugin, it will automatically download the images in the document to your local device in the background.
+This plugin is very simple. When you clip a document using the Web Clipper, this plugin will automatically download the images in the document to your local device in the background.
 
 # Configuration Options
 ## Folder Monitoring
